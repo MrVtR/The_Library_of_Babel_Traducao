@@ -1,0 +1,3 @@
+files:
+  - source: data.json
+    translation: translated.json
