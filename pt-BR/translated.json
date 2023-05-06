@@ -3,7 +3,7 @@
   "LanguageName": "English",
   "ListOfPairs": [
     {
-      "Value": "Jion, the old sheriff of the Colony, and Gojiir's bodyguard, has the<color=#00FF71> key card</color> to Enlil Peaks, atop Zhagros 05. I have to find him and get that key card.",
+      "Value": "Jion, o antigo xerife da Colônia e guarda-costas de Gojiir, possui o <color=#00FF71>cartão de acesso</color> para o Pico Enlil, no topo de Zhagros 05. Eu tenho que encontrá-lo e pegar esse cartão de acesso.",
       "crowdinContext": "3estatuas_t1_desc"
     },
     {
@@ -15,7 +15,7 @@
       "crowdinContext": "3estatuas_t2_desc"
     },
     {
-      "Value": "The Nasaba Hills",
+      "Value": "As colinas de Nasaba",
       "crowdinContext": "3estatuas_t2_name"
     },
     {
